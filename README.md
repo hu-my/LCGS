@@ -24,7 +24,7 @@ pip install networkx
 ```
 
 #### Dataset prepare
-Please download the dataset from [GCN](https://github.com/tkipf/gcn), then change the filepath in ```utils.py``` for your path.
+Please download the dataset from [GCN](https://github.com/tkipf/gcn), then change the filepath in ```data/utils.py``` for your path.
 
 ### Usage
 
